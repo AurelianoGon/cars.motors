@@ -1,5 +1,6 @@
 # carros.motores
 Explorar a relação entre o tamanho do motor e o consumo de combustível em carros utilizando a biblioteca GGplot2 em R.
+
 Este repositório visa explorar a relação entre o tamanho do motor e o consumo de combustível em carros utilizando a biblioteca GGplot2 em R. A pergunta central que estamos buscando responder é: carros com motores maiores utilizam mais combustíveis do que carros com motores menores?
 
 Para isso, utilizaremos o conjunto de dados MPG, que contém informações sobre diferentes modelos de carros, incluindo o tamanho do motor (displ) em litros e a eficiência do combustível na estrada (hwy).
