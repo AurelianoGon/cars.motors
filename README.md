@@ -1,4 +1,4 @@
-# Análise relacional 
+# Análise Relacional 
 Explorar a relação entre o tamanho do motor e o consumo de combustível em carros.
 
 Este repositório visa explorar a relação entre o tamanho do motor e o consumo de combustível em carros utilizando a biblioteca GGplot2 em R. A pergunta central que estamos buscando responder é: carros com motores maiores utilizam mais combustíveis do que carros com motores menores?
